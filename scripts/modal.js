@@ -9,25 +9,26 @@ $(document).ready(function(){
       link: 'http://www.roambi.com'
     },
     walker: {
-      title: 'WalkerTracker',
-      tag: 'PERFORMANCE METRICS.',
-      detail: 'Walker Tracker offers goal management, fitness tracking, and team competitions to companies for internal use. A Ruby on Rails and Javascript companion site for the Walker Tracker App. Features visual metrics and gamified progression system.',
+      title: 'PT Bumi Pasiran Teduh',
+      tag: 'COMPANY PROFILE',
+      detail: 'About us, News, blogs, article, slide show banner, contact us',
     },
     powur: {
-      title: 'Powur.com',
-      tag: 'MULTI-LEVEL MARKETING.',
-      detail: 'Powur is a multi-level marketing platform for lead generation, recruitment, and team building. Built with Ruby on Rails and Angular-UI. Makes use of Angular-material for front-end visuals. Features complex user tree heiarchy and commission system.',
-      link: 'http://www.powur.com/with/42'
+      title: 'klik4it.com',
+      tag: 'ECOMMERCE',
+      detail: 'Install and configure, Add and Update Content Management System. magento',
+      link: 'http://www.klik4it.com'
     },
     mystand: {
-      title: 'MyStand',
-      tag: 'CROWD-FUNDED CHARITY.',
-      detail: 'MyStand is a crowd-funding, media sharing website, that has you donating actions instead of money out of your pocket. Single page App built with Node.js on Sails and Angular 2.0. Features social media sharing and large scale crowd-funding.',
+      title: 'E-Leave',
+      tag: 'E-LEAVE SYSTEM.',
+      detail: 'E-leave is a web-based application to manage employees and time management employee. First Level & Second Level Approving Officers can Approve / Reject their employees leave application. HR can view details & summary of leave taken reports for all the employees.'
     },
     never: {
       title: 'NeverSurrender',
       tag: 'ALS AWARENESS.',
       detail: 'NeverSurrender is a platform for the new ALS foundation mobile app in hopes to raise awareness and research funding to fight ALS. Pure JavaScript marketing site to promote the new ALS NeverSurrender app.',
+      link: ''
     },
     themall: {
       title: 'The Mall',
