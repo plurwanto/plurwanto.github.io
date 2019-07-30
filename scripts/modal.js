@@ -36,7 +36,7 @@ $(document).ready(function(){
       detail: 'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and Handlebars. Features the ability to import thousands of top brands products into one shopping site.',
     }
   };
-
+  
   $('#gallery .button').on('click', function(){
     fillModal(this.id);
     $('.modal-wrap').addClass('visible');
@@ -122,7 +122,10 @@ $(document).ready(function(){
         background: "url('img/slides/" + id + '-' + index + ".jpg') center center/cover",
         backgroundSize: 'cover'
       });
-              
-    });
+      $(this).click(function(){
+          window.open("img/slides/" + id + '-' + index + ".jpg","clearcache=yes");  
+     });
+     
+    }); 
   }
 })
