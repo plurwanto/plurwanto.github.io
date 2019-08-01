@@ -2,12 +2,12 @@ $(document).ready(function(){
 
   // MODAL
   var modalText = {
-    roambi: {
-      title: 'Roambi.com',
-      tag: 'BUSINESS ANALYTICS.',
-      detail: 'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
-      link: 'http://www.roambi.com'
-    },
+//    roambi: {
+//      title: 'Roambi.com',
+//      tag: 'BUSINESS ANALYTICS.',
+//      detail: 'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
+//      link: 'http://www.roambi.com'
+//    },
     walker: {
       title: 'Signal Buddy',
       tag: 'ONLINE TRADING',
@@ -24,12 +24,12 @@ $(document).ready(function(){
       tag: 'E-LEAVE SYSTEM.',
       detail: 'E-leave is a web-based application to manage employees and time management employee. First Level & Second Level Approving Officers can Approve / Reject their employees leave application. HR can view details & summary of leave taken reports for all the employees.'
     },
-    never: {
-      title: 'NeverSurrender',
-      tag: 'ALS AWARENESS.',
-      detail: 'NeverSurrender is a platform for the new ALS foundation mobile app in hopes to raise awareness and research funding to fight ALS. Pure JavaScript marketing site to promote the new ALS NeverSurrender app.',
-      link: ''
-    },
+//    never: {
+//      title: 'NeverSurrender',
+//      tag: 'ALS AWARENESS.',
+//      detail: 'NeverSurrender is a platform for the new ALS foundation mobile app in hopes to raise awareness and research funding to fight ALS. Pure JavaScript marketing site to promote the new ALS NeverSurrender app.',
+//      link: ''
+//    },
     themall: {
       title: 'E-Pro Project',
       tag: 'PROJECT FIELD TRACKING.',
