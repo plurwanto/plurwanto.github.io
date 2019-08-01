@@ -10,13 +10,8 @@ $(document).ready(function(){
     },
     walker: {
       title: 'Signal Buddy',
-      tag: 'COMPANY PROFILE',
-      detail: 'About us, News, blogs, article, slide show banner, contact us',
-    },
-    walk: {
-      title: 'PT Bumi Pasiran Teduh',
-      tag: 'COMPANY PROFILE',
-      detail: 'About us, News, blogs, article, slide show banner, contact us',
+      tag: 'ONLINE TRADING',
+      detail: 'Signals buddy adalah aplikasi sinyal trading yang mudah, cepat, akurat, dan gratis, dalam mengembangkan investasi online trading anda',
     },
     powur: {
       title: 'klik4it.com',
@@ -39,6 +34,11 @@ $(document).ready(function(){
       title: 'E-Pro Project',
       tag: 'PROJECT FIELD TRACKING.',
       detail: 'E-Pro is a field service solution that provides mobile applications to track and monitor projects activities. It enables clients to have better control on the status and progress of projects. Clients can also have visibility on project costing versus budget to enhance the overall risk management on projects.',
+    },
+    theomah: {
+      title: 'Point of Sale',
+      tag: 'RETAIL POS Omah Herborist',
+      detail: 'Web Based POS System is a retail management system for small to mid-sized businesses. In addition to its Point of Sale module, the solution also offers integrated Inventory Management, Customer Management and module includes Receiving god, barcode scanners, opname, and the ability to discount items or void transactions. The inventory application helps keep track of purchase orders, inventory reports, the supplier database, and more.',
     }
   };
   
