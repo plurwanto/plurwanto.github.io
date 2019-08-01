@@ -9,6 +9,11 @@ $(document).ready(function(){
       link: 'http://www.roambi.com'
     },
     walker: {
+      title: 'Signal Buddy',
+      tag: 'COMPANY PROFILE',
+      detail: 'About us, News, blogs, article, slide show banner, contact us',
+    },
+    walk: {
       title: 'PT Bumi Pasiran Teduh',
       tag: 'COMPANY PROFILE',
       detail: 'About us, News, blogs, article, slide show banner, contact us',
@@ -31,9 +36,9 @@ $(document).ready(function(){
       link: ''
     },
     themall: {
-      title: 'The Mall',
-      tag: 'PEER GUIDED SHOPPING.',
-      detail: 'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and Handlebars. Features the ability to import thousands of top brands products into one shopping site.',
+      title: 'E-Pro Project',
+      tag: 'PROJECT FIELD TRACKING.',
+      detail: 'E-Pro is a field service solution that provides mobile applications to track and monitor projects activities. It enables clients to have better control on the status and progress of projects. Clients can also have visibility on project costing versus budget to enhance the overall risk management on projects.',
     }
   };
   
