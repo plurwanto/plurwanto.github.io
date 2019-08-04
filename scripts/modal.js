@@ -2,12 +2,12 @@ $(document).ready(function(){
 
   // MODAL
   var modalText = {
-//    roambi: {
-//      title: 'Roambi.com',
-//      tag: 'BUSINESS ANALYTICS.',
-//      detail: 'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
-//      link: 'http://www.roambi.com'
-//    },
+    roambi: {
+      title: 'PT Bumi Pasiran Teduh',
+      tag: 'COMPANY PROFILE.',
+      detail: 'About us, News, blogs, article, slide show banner, contact us',
+      link: 'http://www.bpt.co.id'
+    },
     walker: {
       title: 'Signal Buddy',
       tag: 'ONLINE TRADING',
